@@ -18,6 +18,8 @@ After set up all that you can execute bellow command for start server
 Happy development....
 
 **Drive Link for Pictures** : [Pictures](https://drive.google.com/drive/folders/1lHWMZ1CZSoOVrqxyK6BExNG2sqoo2f-V)  
+**Figma Link ** : [Figma](https://www.figma.com/file/b50ziRKwLtSKgibsOvSvWC/cafeapp?type=design&node-id=0%3A1&mode=design&t=af8TmenzJP9DvFol-1)  
+
 <!--
 **Deployed Website Link** : [College-Cafeteria](https://cafeteria-app.onrender.com/) 
 -->
